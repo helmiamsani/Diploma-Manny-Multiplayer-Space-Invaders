@@ -428,7 +428,7 @@ MonoBehaviour:
   serverOnly: 1
   localPlayerAuthority: 0
   m_AssetId: 
-  m_SceneId: 673884877
+  m_SceneId: 4068008862
 --- !u!4 &827104367
 Transform:
   m_ObjectHideFlags: 0
@@ -813,5 +813,4 @@ MonoBehaviour:
   autoCreatePlayer: 1
   playerSpawnMethod: 1
   spawnPrefabs:
-  - {fileID: 5817718490601862634, guid: 5b67c153cb181c644afdfec712f6a43f, type: 3}
   - {fileID: 2024498909404453693, guid: a0e2230559104f7409c7468adccb8056, type: 3}
